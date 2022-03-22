@@ -3,9 +3,9 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=anujsinha789&label=Profile%20views&color=0e75b6&style=flat" alt="anujsinha789" /> </p>
 
-- 🔭 I’m currently working on **My Side projects**
+- 🔭 I’m currently working on **Myself**
 
-- 🌱 I’m currently learning **Go , Blockchain , Backend Development**
+- 🌱 I’m currently learning **React , Nodejs , Springboot**
 
 - 💬 Ask me about **React , Java , Blockchain**
 
